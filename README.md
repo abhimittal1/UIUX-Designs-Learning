@@ -22,7 +22,7 @@ Each project highlights **strong UX principles**, **navigation flows**, and **in
 
 ---
 
-### 2. Health Care App (Mobile Version)
+### 2. Health Care App
 - **Figma Link:** [View Health Care Mobile App](https://www.figma.com/proto/Yi9u51geVvaH1KoAJzGWTE/Health-App?node-id=55-263&t=mnxA2l66hd11gflF-0)
 - **Screenshot:**  
   ![Health Mobile Screenshot](images/SS3.png)
